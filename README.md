@@ -23,5 +23,8 @@ Since we need to run it from our watch and kde support for Wear OS is not there,
   2) Now paste the command in [TinyURL](https://tinyurl.com/app) (MacroDroid requires in the form of a web link | You can use any URL shortener depending on your choice)
   3) Now copy the TinyURL shortened link.
 - Open [**MacroDroid**](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&gl=US&pli=1)
+  <p float="left">
+  <img src="![MacroDroid1](https://user-images.githubusercontent.com/88709957/208473547-ebca80d9-1a2d-4235-919d-2b20c8ad745a.png)"/>
+  </p>
 - Create a new Macro
 - Choose Wear
