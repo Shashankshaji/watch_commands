@@ -8,8 +8,8 @@ Here I am launching shell scripts from smartwatch to my Linux using a combinatio
 Here is a guide for setting it up.
 
 Launching scripts from an android device to a linux machine is fairly straightfoward, so I will explain that first. 
-You can check out this reddit post on how to get started with KDEConnect.
-<>
+You can check out this github repository on how to get started with KDEConnect
+<https://github.com/jrodal98/watch-scripts>
 
 Here I am using Xmonad WM, you can use any other distro or WM but the shell command changes.
 
