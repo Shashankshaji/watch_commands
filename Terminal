@@ -2,6 +2,6 @@
 
 alacritty
 
-- To run 3 terminals at once, I use
+//To run 3 terminals at once, I use
 
 alacritty & alacritty -e unimatrix & alacritty -e pipes.sh
