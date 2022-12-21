@@ -29,5 +29,10 @@ Since we need to run it from our watch and kde support for Wear OS is not there,
 <img src="Screenshots/Screenshot_20221221-212437_MacroDroid~2 (1).png" width="250" height="500">
 <img src="Screenshots/Screenshot_20221221-212447_MacroDroid~2.png" width="250" height="500">
 </p>
+- Enable Uncategorized and Click on the ➕ icon.
+
+
+
+Now in the **Triggers** Section click on the ➕ icon.
 
 
