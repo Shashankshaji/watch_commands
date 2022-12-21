@@ -46,6 +46,14 @@ Since we need to run it from our watch and kde support for Wear OS is not there,
 
 - After that you can go back and you'll reach the below screen again
 
+- Now click on the ➕ icon in the Action section.
+- Go to the **Applications** section and click on 🌐**Open Website**.
+- Copy the **TinyURL** link you made previously where you pasted the kdeconnect url.
+- Copy the link and paste as shown below.
+- Make sure HTTP GET is disabled as it opens browser to run the command and click on OK.
+- The disadvantage of this is everytime you run the command in your Smartwatch your phone should be on and browser redirects to your kdeconnect app for it to work.
+- I am finding a way to get it directly only in notifications and will update here as well.Any inputs would be appreciated.
+
 <p float="left">
 <img src="Screenshots/Screenshot_20221221-214905_MacroDroid~2.png" alt="drawing" width="250" height="500">
 <img src="Screenshots/Screenshot_20221221-215009_MacroDroid~2.png" width="250" height="500">
