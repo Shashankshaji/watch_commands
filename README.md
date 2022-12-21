@@ -26,7 +26,8 @@ Since we need to run it from our watch and kde support for Wear OS is not there,
 - Enable MacroDroid and go to Macros
 <p float="left">
 <img src="Screenshots/MacroDroid1New.png" alt="drawing" width="250" height="500">
-<img src=
+<img src="Screenshots/Screenshot_20221221-212437_MacroDroid~2 (1).png" width="250" height="500">
+<img src="Screenshots/Screenshot_20221221-212447_MacroDroid~2.png" width="250" height="500">
 </p>
 
 
