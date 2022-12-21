@@ -59,8 +59,11 @@ Since we need to run it from our watch and kde support for Wear OS is not there,
 <img src="Screenshots/Screenshot_20221221-215009_MacroDroid~2.png" width="250" height="500">
 <img src="Screenshots/Screenshot_20221221-215809_Brave.png" width="250" height="500">
 <img src="Screenshots/Screenshot_20221221-215321_MacroDroid~2.png" width="250" height="500">
+<img src="Screenshots/Screenshot_20221221-221034_MacroDroid~2.png" width="250" height="500">
 </p>
 
+- Now you can type the name you want and click on the icon to save it.
+- And that's it, you are done. Enjoy operating Linux through your watch!
 
 
 
