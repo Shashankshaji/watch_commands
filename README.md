@@ -44,6 +44,15 @@ Since we need to run it from our watch and kde support for Wear OS is not there,
 - In the <ins>**Connectivity**</ins> section click on ⌚**Android Wear** and in that select **Android Wear App** and click OK.
 - You'll find a list of icon, depending on the command you are going to put you can select the icon you want. For example my first command is to **Lock screen** then I would select 🔒lock icon.
 
+- After that you can go back and you'll reach the below screen again
+
+<p float="left">
+<img src="Screenshots/Screenshot_20221221-214905_MacroDroid~2.png" alt="drawing" width="250" height="500">
+<img src="Screenshots/Screenshot_20221221-215009_MacroDroid~2.png" width="250" height="500">
+<img src="Screenshots/Screenshot_20221221-215809_Brave.png" width="250" height="500">
+<img src="Screenshots/Screenshot_20221221-215321_MacroDroid~2.png" width="250" height="500">
+</p>
+
 
 
 
