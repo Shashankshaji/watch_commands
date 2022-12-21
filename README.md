@@ -29,16 +29,20 @@ Since we need to run it from our watch and kde support for Wear OS is not there,
 <img src="Screenshots/Screenshot_20221221-212437_MacroDroid~2 (1).png" width="250" height="500">
 <img src="Screenshots/Screenshot_20221221-212447_MacroDroid~2.png" width="250" height="500">
 </p>
+
 - Enable Uncategorized and Click on the ➕ icon.
 
 
-Now in the <ins>**Triggers**</ins> Section click on the ➕ icon.
+- Now in the <ins>**Triggers**</ins> Section click on the ➕ icon.
 
 <p float="left">
 <img src="Screenshots/Screenshot_20221221-212515_MacroDroid~2.png" alt="drawing" width="250" height="500">
 <img src="Screenshots/Screenshot_20221221-212522_MacroDroid.png" width="250" height="500">
 <img src="Screenshots/Screenshot_20221221-212526_MacroDroid.png" width="250" height="500">
 </p>
+
+- In the <ins>**Connectivity**</ins> section click on ⌚**Android Wear** and in that select **Android Wear App** and click OK.
+- You'll find a list of icon, depending on the command you are going to put you can select the icon you want. For example my first command is to **Lock screen** then I would select 🔒lock icon.
 
 
 
